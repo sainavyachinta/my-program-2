@@ -1,0 +1,5 @@
+a=-4
+if a>o:
+  print('a is positive')
+else:
+  print('a is negative')
